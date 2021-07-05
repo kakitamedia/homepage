@@ -1,4 +1,4 @@
-baseURL = 'https://kakitamedia.github.io/homepage/'
+baseURL = 'https://kakitamedia.github.io/'
 languageCode = 'en-us'
 
 theme = 'm10c'
