@@ -2,7 +2,7 @@ baseURL = 'http://example.com/'
 languageCode = 'en-us'
 
 theme = 'm10c'
-publishDir = 'docs'
+# publishDir = 'docs'
 canonifyurls = true
 
 paginate = 8
