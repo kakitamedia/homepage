@@ -1,3 +1,3 @@
 # homepage
 
-https://kakitamedia.github.io/homepage/home_en/
+https://kakitamedia.github.io/homepage
