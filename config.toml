@@ -6,13 +6,13 @@ theme = 'm10c'
 publishDir = 'docs'
 canonifyurls = true
 
-paginate = 12
+paginate = 8
 
 
 [params]
     description = 'Kazutoshi Akita'
     menu_item_separator = ' - '
-    # avatar = 'images/temp.jpg'
+    avatar = 'images/portrait.png'
     
     [[params.social]]
         icon = 'mail'
@@ -26,7 +26,7 @@ paginate = 12
 
 
 [params.style]
-    darkestColor = "#e7e7e7"
+    darkestColor = "#ffffff"
     darkColor = "#ffffff"
     lightColor = "#000000"
     lightestColor = "#000000"
