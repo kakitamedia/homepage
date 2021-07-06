@@ -1,10 +1,7 @@
 ---
 date: 2021-07-06T06:34:59+09:00
+title: 'Profile'
 ---
-
----
-
-# Profile
 
 Kazutoshi Akita is a Ph.D student at the Toyota Technological Institute, Japan (TTI-J), under the supervision of [Prof. Norimichi Ukita](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index.html) in [Intelligent Infomation Media](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html). He recieved the B.E. and M.E. degrees in TTI-J.
 
