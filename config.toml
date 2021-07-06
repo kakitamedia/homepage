@@ -2,7 +2,7 @@ baseURL = 'https://kakitamedia.github.io/homepage'
 languageCode = 'en-us'
 
 theme = 'm10c'
-# publishDir = 'docs'
+publishDir = 'docs'
 canonifyurls = true
 
 paginate = 8
