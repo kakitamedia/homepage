@@ -2,28 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://example.com/</link>
+    <link>https://kakitamedia.github.io/homepage/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kakitamedia.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home_jp</title>
-      <link>http://example.com/home_jp/</link>
-      <pubDate>Tue, 06 Jul 2021 07:16:14 +0900</pubDate>
-      
-      <guid>http://example.com/home_jp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home_En</title>
-      <link>http://example.com/home_en/</link>
+      <title></title>
+      <link>https://kakitamedia.github.io/homepage/home_en/</link>
       <pubDate>Tue, 06 Jul 2021 06:34:59 +0900</pubDate>
       
-      <guid>http://example.com/home_en/</guid>
-      <description>Profile Kazutoshi Akita is a Ph.D student at the Toyota Technological Institute, Japan (TTI-J), under the supervision of Prof.Norimichi Ukita in Intelligent Infomation Media. He recieved the B.E. and M.E. degrees in TTI-J.
-Research Area Computer Vision, Machine Learning, Object Detection, Super Resolution
-Publications Conference   AVM Image Quality Enhancement by Synthetic Image Learning for Supervised Deblurring K.Akita, M.Hayama, H. Kyutoku, N. Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021.</description>
+      <guid>https://kakitamedia.github.io/homepage/home_en/</guid>
+      <description>Profile Kazutoshi Akita is a Ph.D student at the Toyota Technological Institute, Japan (TTI-J), under the supervision of Prof. Norimichi Ukita in Intelligent Infomation Media. He recieved the B.E. and M.E. degrees in TTI-J.
+ Research Area Computer Vision, Machine Learning, Object Detection, Super Resolution
+ Publications Conference   AVM Image Quality Enhancement by Synthetic Image Learning for Supervised Deblurring K.Akita, M.Hayama, H. Kyutoku, N. Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021.</description>
     </item>
     
   </channel>
