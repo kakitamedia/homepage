@@ -3,7 +3,7 @@ languageCode = 'en-us'
 
 theme = 'm10c'
 publishDir = 'docs'
-canonifyurls = true
+# canonifyurls = true
 
 paginate = 8
 
