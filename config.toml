@@ -1,28 +1,28 @@
 baseURL = 'https://kakitamedia.github.io/homepage'
 languageCode = 'en-us'
 
+
 theme = 'm10c'
 publishDir = 'docs'
-# canonifyurls = true
+canonifyurls = true
 
-paginate = 8
+paginate = 12
 
 
 [params]
     description = 'Kazutoshi Akita'
     menu_item_separator = ' - '
-#    [[params.social]]
-#       icon = 'mail'
-#        name = 'Mail'
-#        url = 'mailto:sd21501@toyota-ti.ac.jp'
-    [[params.socal]]
-        icon = 'github'
-        name = 'Github'
-        url = 'https://github.com/kakitamedia'
-    [[params.socal]]
-        icon = 'google_scholar'
-        name = 'google_scholar'
-        url = 'https://scholar.google.com/citations?user=9GC3j1wAAAAJ&hl=ja&oi=sra'
+    avatar = 'images/temp.jpg'
+    
+    [[params.social]]
+        icon = 'mail'
+        url = 'mailto:sd21501@toyota-ti.ac.jp'
+
+    [[params.social]]
+        icon = "github"
+        name = "My Github"
+        url = "https://github.com/kakitamedia"
+    
 
 
 [params.style]
