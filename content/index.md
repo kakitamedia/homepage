@@ -20,7 +20,6 @@ K.Akita, M.Hayama, H. Kyutoku, N. Ukita, 17th International Conference on Machin
 
 * [**Distant Bird Detection for Safe Drone Flight and its Dataset**](https://ieeexplore.ieee.org/document/9511386) 
 S.Fujii, K.Akita, N.Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021.
-
 [dataset](https://github.com/kakitamedia/drone_dataset)
 
 * [**Region-dependent Scale Proposals for Super-Resolution in Object Detection**](https://ieeexplore.ieee.org/abstract/document/9334961)  
