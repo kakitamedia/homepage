@@ -15,10 +15,10 @@ Computer Vision, Machine Learning, Object Detection, Super Resolution
 # Publications
 #### Conference
 
-* [**AVM Image Quality Enhancement by Synthetic Image Learning for Supervised Deblurring**]()  
+* [**AVM Image Quality Enhancement by Synthetic Image Learning for Supervised Deblurring**](https://ieeexplore.ieee.org/document/9511398)  
 K.Akita, M.Hayama, H. Kyutoku, N. Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021.
 
-* [**Distant Bird Detection for Safe Drone Flight and its Dataset**]()  
+* [**Distant Bird Detection for Safe Drone Flight and its Dataset**](https://ieeexplore.ieee.org/document/9511386) [dataset](https://github.com/kakitamedia/drone_dataset)
 S.Fujii, K.Akita, N.Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021.
 
 * [**Region-dependent Scale Proposals for Super-Resolution in Object Detection**](https://ieeexplore.ieee.org/abstract/document/9334961)  
