@@ -1,0 +1,11 @@
+[
+    {
+        "grouping":"Languages & Operation Systems",
+        "skills":[ "Python", "Linux", "Bash"]
+    },
+    {
+      "grouping":"Tools",
+      "skills":[ "Git", "Pytorch", "Docker", "Latex"]
+    }
+  ]
+  

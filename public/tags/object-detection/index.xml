@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object Detection on Profile</title>
+    <link>http://localhost:1313/tags/object-detection/</link>
+    <description>Recent content in Object Detection on Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Context-aware Region-dependent Scale Proposals for Scale-optimized Object Detection using Super-Resolution</title>
+      <link>http://localhost:1313/publications/rdsp_access23/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/rdsp_access23/</guid>
+      <description>Image scaling techniques such as Super-Resolution (SR) are useful for object detection, especially for detecting small objects. However, we found that scaling by an inappropriate factor tends to induce false-positive detections. This paper presents a Region-Dependent Scale-Proposal (RDSP) network that estimates the appropriate scale factors for each image region depending on its contextual information. In our detection framework, images are appropriately scaled by SR according to the estimations of the RDSP network, and fed into the scale-specific object detectors.</description>
+    </item>
+    <item>
+      <title>Distant Bird Detection for Safe Drone Flight and its Dataset</title>
+      <link>http://localhost:1313/publications/drone_mva21/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/drone_mva21/</guid>
+      <description>For the safe flight of drones, they must avoid the attacks of aggressive birds. These birds move very fast and must be detected far enough away. In recent years, deep learning has made it possible to detect small distant objects in RGB camera images. Since these methods are learning-based, they require a large amount of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera.</description>
+    </item>
+    <item>
+      <title>Region-dependent Scale Proposals for Super-Resolution in Object Detection</title>
+      <link>http://localhost:1313/publications/rdsp_ipas20/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/rdsp_ipas20/</guid>
+      <description>This paper presents a method for estimating object-scale proposals applied to super resolution (SR) for scale-optimized object detection. With the region-dependent scale proposals, we achieve scale-independent object detection. This object detection scheme consists of three functions; region-dependent scale proposals, SR, and object detection. While SR and object detection have been fused in deep end-to-end networks in previous works, region-dependent scale proposals are not provided or are performed independently of SR and object detection processes.</description>
+    </item>
+  </channel>
+</rss>
