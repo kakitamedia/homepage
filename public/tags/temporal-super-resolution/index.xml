@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temporal Super Resolution on Profile</title>
+    <link>http://localhost:1313/tags/temporal-super-resolution/</link>
+    <description>Recent content in Temporal Super Resolution on Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/temporal-super-resolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Resulds</title>
+      <link>http://localhost:1313/others/extremesr_aim19/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/extremesr_aim19/</guid>
+      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+    </item>
+    <item>
+      <title>AIM 2020 Challenge on Video Temporal Super-Resolution</title>
+      <link>http://localhost:1313/others/temporalsr_aim20/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/temporalsr_aim20/</guid>
+      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+    </item>
+    <item>
+      <title>The 2018 PIRM Challenge on Perceptual Image Super-Resolution</title>
+      <link>http://localhost:1313/others/perceptualsr_pirm/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/perceptualsr_pirm/</guid>
+      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+    </item>
+  </channel>
+</rss>
