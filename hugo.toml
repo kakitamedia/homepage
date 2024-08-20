@@ -1,5 +1,5 @@
 title = "Profile"
-baseURL = "https://kakitamedia.github.io/"
+baseURL = "https://kakitamedia.github.io/homepage/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dataset on Profile</title>
-    <link>http://localhost:1313/tags/dataset/</link>
+    <link>http://localhost:1313/homepage/tags/dataset/</link>
     <description>Recent content in Dataset on Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homepage/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distant Bird Detection for Safe Drone Flight and its Dataset</title>
-      <link>http://localhost:1313/publications/drone_mva21/</link>
+      <link>http://localhost:1313/homepage/publications/drone_mva21/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/drone_mva21/</guid>
+      <guid>http://localhost:1313/homepage/publications/drone_mva21/</guid>
       <description>For the safe flight of drones, they must avoid the attacks of aggressive birds. These birds move very fast and must be detected far enough away. In recent years, deep learning has made it possible to detect small distant objects in RGB camera images. Since these methods are learning-based, they require a large amount of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera.</description>
     </item>
   </channel>
