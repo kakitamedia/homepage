@@ -2,53 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Challenge on Profile</title>
-    <link>http://localhost:1313/tags/challenge/</link>
+    <link>http://localhost:1313/homepage/tags/challenge/</link>
     <description>Recent content in Challenge on Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homepage/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIM 2020 Challenge on Video Extreme Super-Resolution: Methods and Results</title>
-      <link>http://localhost:1313/others/extremesr_aim20/</link>
+      <link>http://localhost:1313/homepage/others/extremesr_aim20/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/extremesr_aim20/</guid>
-      <description>The report of 2021 AIM Video Extreme Super-Resolution challenge. We won 7th Place.</description>
+      <guid>http://localhost:1313/homepage/others/extremesr_aim20/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Small Object Detection Challenge for Spotting Birds 2023</title>
+      <link>http://localhost:1313/homepage/others/bird_mva23/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/bird_mva23/</guid>
+      <description>I contributed to this project as a staff member.</description>
     </item>
     <item>
       <title>NTIRE 2021 challenge on burst super-resolution: Methods and results</title>
-      <link>http://localhost:1313/others/burstsr_ntire21/</link>
+      <link>http://localhost:1313/homepage/others/burstsr_ntire21/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/burstsr_ntire21/</guid>
-      <description>The report of 2021 NTIRE Burst Super Resolusion challenge. We won 4th Place.</description>
+      <guid>http://localhost:1313/homepage/others/burstsr_ntire21/</guid>
+      <description>We won 4th Place.</description>
     </item>
     <item>
-      <title>AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Resulds</title>
-      <link>http://localhost:1313/others/extremesr_aim19/</link>
+      <title>AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results</title>
+      <link>http://localhost:1313/homepage/others/extremesr_aim19/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/extremesr_aim19/</guid>
-      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+      <guid>http://localhost:1313/homepage/others/extremesr_aim19/</guid>
+      <description> </description>
     </item>
     <item>
       <title>AIM 2020 Challenge on Video Temporal Super-Resolution</title>
-      <link>http://localhost:1313/others/temporalsr_aim20/</link>
+      <link>http://localhost:1313/homepage/others/temporalsr_aim20/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/temporalsr_aim20/</guid>
-      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+      <guid>http://localhost:1313/homepage/others/temporalsr_aim20/</guid>
+      <description>We won 4th place.</description>
     </item>
     <item>
       <title>NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results</title>
-      <link>http://localhost:1313/others/perceptualsr_ntire2020/</link>
+      <link>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/perceptualsr_ntire2020/</guid>
+      <guid>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</guid>
       <description> </description>
     </item>
     <item>
       <title>The 2018 PIRM Challenge on Perceptual Image Super-Resolution</title>
-      <link>http://localhost:1313/others/perceptualsr_pirm/</link>
+      <link>http://localhost:1313/homepage/others/perceptualsr_pirm/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/others/perceptualsr_pirm/</guid>
-      <description>The report of 2020 AIM Video Temporal Super Resolution challenge. We won 4th Place.</description>
+      <guid>http://localhost:1313/homepage/others/perceptualsr_pirm/</guid>
+      <description>We won 1st place in Region 2.</description>
     </item>
   </channel>
 </rss>
