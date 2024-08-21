@@ -5,7 +5,7 @@ date: 2021-07-28
 featured: true
 description: ""
 tags: ["Bursr Super Resolution", "Challenge"]
-image: "/img/organicdevops.webp"
+# image: "/img/organicdevops.webp"
 link: "https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Bhat_NTIRE_2021_Challenge_on_Burst_Super-Resolution_Methods_and_Results_CVPRW_2021_paper.html"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

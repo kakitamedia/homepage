@@ -5,7 +5,7 @@ date: 2023-07-28
 featured: true
 description: "K.Akita, N.Ukita, IEEE Access, Vol.11, pp.122141-122153: 10.1109/ACCESS.2023.3329302, 2023."
 tags: ["Object Detection", "Super Resolution"]
-image: "/img/organicdevops.webp"
+image: "img/rdsp_access23.png"
 link: "https://ieeexplore.ieee.org/document/10304134"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

@@ -5,7 +5,7 @@ date: 2020-07-28
 featured: true
 description: ""
 tags: ["Temporal Super Resolution", "Challenge"]
-image: "/img/organicdevops.webp"
+# image: "/img/organicdevops.webp"
 link: "https://arxiv.org/pdf/2009.12987"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

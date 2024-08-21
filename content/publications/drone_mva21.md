@@ -5,7 +5,7 @@ date: 2021-07-28
 featured: true
 description: "S.Fujii, K.Akita, N.Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021."
 tags: ["Object Detection", "Dataset"]
-image: "/img/organicdevops.webp"
+image: "img/drone_mva21.png"
 link: "https://ieeexplore.ieee.org/document/9511386"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

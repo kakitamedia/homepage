@@ -5,7 +5,6 @@ date: 2020-07-28
 featured: true
 description: "K.Akita, M.Haris, N.Ukita, Fourth IEEE International Conference on Image Processing, Applications and Systems (IPAS) 2020."
 tags: ["Object Detection", "Super Resolution"]
-image: "/img/organicdevops.webp"
 link: "https://ieeexplore.ieee.org/abstract/document/9334961"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

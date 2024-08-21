@@ -5,7 +5,7 @@ date: 2023-07-28
 featured: true
 description: ""
 tags: ["Object Detection", "Challenge"]
-image: "/img/organicdevops.webp"
+image: "img/samples.png"
 link: "https://www.mva-org.jp/mva2023/index.php?id=challenge"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

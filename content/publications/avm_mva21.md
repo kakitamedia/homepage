@@ -5,7 +5,7 @@ date: 2021-07-28
 featured: true
 description: "K. Akita, M. Hayama, H. Kyutoku, N. Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021."
 tags: ["Image Deblurring", "Aroung View Monitor"]
-image: "/img/organicdevops.webp"
+image: "img/avm_mva21.png"
 link: "https://ieeexplore.ieee.org/document/9511398"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
