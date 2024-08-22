@@ -17,7 +17,7 @@ phone = "052-809-1832"
 profileImage = "img/portrait.png"
 showQr = false
 showContact = false
-sections = ["publications", "skills", "others"]
+sections = ["publications", "others", "skills"]
 
 
 # [params.google]
