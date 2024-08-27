@@ -1,9 +1,9 @@
 ---
 title: "AIM 2020 Challenge on Video Temporal Super-Resolution"
-date: 2020-07-28
+date: 2020-09-28
 # pubtype: "Conference"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Temporal Super Resolution", "Challenge"]
 # image: "/img/organicdevops.webp"
 link: "https://arxiv.org/pdf/2009.12987"

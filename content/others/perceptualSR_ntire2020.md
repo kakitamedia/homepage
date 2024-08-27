@@ -1,9 +1,9 @@
 ---
 title: "NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results"
-date: 2020-07-28
+date: 2020-06-19
 # pubtype: "Conference"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Super Resolution", "Challenge"]
 # image: "/img/organicdevops.webp"
 link: "https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhang_NTIRE_2020_Challenge_on_Perceptual_Extreme_Super-Resolution_Methods_and_Results_CVPRW_2020_paper.pdf"

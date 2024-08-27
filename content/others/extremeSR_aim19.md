@@ -1,9 +1,9 @@
 ---
 title: "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results"
-date: 2020-07-28
+date: 2019-10-27
 # pubtype: "Conference"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Temporal Super Resolution", "Challenge"]
 # image: "/img/organicdevops.webp"
 link: "https://ieeexplore.ieee.org/abstract/document/9022627"

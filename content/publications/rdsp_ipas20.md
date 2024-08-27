@@ -3,7 +3,7 @@ title: "Region-dependent Scale Proposals for Super-Resolution in Object Detectio
 date: 2020-07-28
 # pubtype: "Conference"
 featured: true
-description: "K.Akita, M.Haris, N.Ukita, Fourth IEEE International Conference on Image Processing, Applications and Systems (IPAS) 2020."
+description: "K.Akita, M.Haris, N.Ukita <br> Fourth IEEE International Conference on Image Processing, Applications and Systems (IPAS), 2020."
 tags: ["Object Detection", "Super Resolution"]
 link: "https://ieeexplore.ieee.org/abstract/document/9334961"
 # fact: "Interesting little tidbit shown below image on summary and detail page"

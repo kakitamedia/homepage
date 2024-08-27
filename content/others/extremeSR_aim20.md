@@ -1,9 +1,9 @@
 ---
 title: "AIM 2020 Challenge on Video Extreme Super-Resolution: Methods and Results"
-date: 2023-07-28
+date: 2020-09-14
 # pubtype: "Conference"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Super Resolution", "Challenge"]
 # image: "/img/organicdevops.webp"
 link: "https://arxiv.org/abs/2009.06290"

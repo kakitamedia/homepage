@@ -6,14 +6,14 @@
     <description>Recent content in Home on Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AIM 2020 Challenge on Video Extreme Super-Resolution: Methods and Results</title>
-      <link>http://localhost:1313/homepage/others/extremesr_aim20/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/others/extremesr_aim20/</guid>
-      <description> </description>
+      <title>Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality</title>
+      <link>http://localhost:1313/homepage/others/bdsr_ijcnn24/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/bdsr_ijcnn24/</guid>
+      <description>While burst LR images are useful for improving the SR image quality compared with a single LR image, prior SR networks accepting the burst LR images are trained in a deterministic manner, which is known to produce a blurry SR image. In addition, it is difficult to perfectly align the burst LR images, making the SR image more blurry. Since such blurry images are perceptually degraded, we aim to reconstruct the sharp high-fidelity boundaries.</description>
     </item>
     <item>
       <title>Context-aware Region-dependent Scale Proposals for Scale-optimized Object Detection using Super-Resolution</title>
@@ -25,9 +25,30 @@
     <item>
       <title>Small Object Detection Challenge for Spotting Birds 2023</title>
       <link>http://localhost:1313/homepage/others/bird_mva23/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/homepage/others/bird_mva23/</guid>
       <description>I contributed to this project as a staff member.</description>
+    </item>
+    <item>
+      <title>Free-viewpoint Omnidirectional Image Synthesis for Large Scenes</title>
+      <link>http://localhost:1313/homepage/others/nerf_ieice23/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/nerf_ieice23/</guid>
+      <description>Recently, Neural Radiance Fields (NeRF) have been attracting attention as a method for arbitrary viewpoint image generation, because NeRF enables ray rendering by modeling a 3D space with neural fields. On the other hand, however, learning and rendering a large scene with NeRF is difficult and computationally expensive. In particular, scenes related to omnidirectional images, such as those used in this study, are outdoor or whole indoor scenes, which are wider than the scenes for a single object used in general NeRF, making these problems even more pronounced.</description>
+    </item>
+    <item>
+      <title>Kernelized back-projection networks for blind super resolution</title>
+      <link>http://localhost:1313/homepage/others/kbpn_arxiv23/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/kbpn_arxiv23/</guid>
+      <description>Since non-blind Super Resolution (SR) fails to super-resolve Low-Resolution (LR) images degraded by arbitrary degradations, SR with the degradation model is required. However, this paper reveals that non-blind SR that is trained simply with various blur kernels exhibits comparable performance as those with the degradation model for blind SR. This result motivates us to revisit high-performance non-blind SR and extend it to blind SR with blur kernels. This paper proposes two SR networks by integrating kernel estimation and SR branches in an iterative end-to-end manner.</description>
+    </item>
+    <item>
+      <title>Neural image enhancement and restoration for time-lapse SPM images</title>
+      <link>http://localhost:1313/homepage/others/spm_jjsp23/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/spm_jjsp23/</guid>
+      <description>This paper presents methods for enhancing and restoring scanning probe microscopy (SPM) images. We focus on image super-resolution as enhancement and image denoising and deblurring as restoration. Assume that almost same time-lapse images are captured in the same area of each specimen. In contrast to a single image, our proposed methods using a recurrent neural network improve the enhancement and restoration of SPM images by merging the time-lapse images in order to acquire a single enhanced/restored image.</description>
     </item>
     <item>
       <title>AVM Image Quality Enhancement by Synthetic Image Learning for Supervised Deblurring</title>
@@ -46,30 +67,37 @@
     <item>
       <title>NTIRE 2021 challenge on burst super-resolution: Methods and results</title>
       <link>http://localhost:1313/homepage/others/burstsr_ntire21/</link>
-      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/homepage/others/burstsr_ntire21/</guid>
       <description>We won 4th Place.</description>
     </item>
     <item>
-      <title>AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results</title>
-      <link>http://localhost:1313/homepage/others/extremesr_aim19/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/others/extremesr_aim19/</guid>
-      <description> </description>
-    </item>
-    <item>
       <title>AIM 2020 Challenge on Video Temporal Super-Resolution</title>
       <link>http://localhost:1313/homepage/others/temporalsr_aim20/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/homepage/others/temporalsr_aim20/</guid>
       <description>We won 4th place.</description>
     </item>
     <item>
-      <title>NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results</title>
-      <link>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</guid>
+      <title>AIM 2020 Challenge on Video Extreme Super-Resolution: Methods and Results</title>
+      <link>http://localhost:1313/homepage/others/extremesr_aim20/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/extremesr_aim20/</guid>
       <description> </description>
+    </item>
+    <item>
+      <title>The 2018 PIRM Challenge on Perceptual Image Super-Resolution</title>
+      <link>http://localhost:1313/homepage/others/perceptualsr_pirm/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/perceptualsr_pirm/</guid>
+      <description>We won 1st place in Region 2.</description>
+    </item>
+    <item>
+      <title>Image Super-Resolution using Explicit Perceptual Loss</title>
+      <link>http://localhost:1313/homepage/others/perceptual_arxiv20/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/perceptual_arxiv20/</guid>
+      <description>This paper proposes an explicit way to optimize the super-resolution network for generating visually pleasing images. The previous approaches use several loss functions which is hard to interpret and has the implicit relationships to improve the perceptual score. We show how to exploit the machine learning based model which is directly trained to provide the perceptual score on generated images. It is believed that these models can be used to optimizes the super-resolution network which is easier to interpret.</description>
     </item>
     <item>
       <title>Region-dependent Scale Proposals for Super-Resolution in Object Detection</title>
@@ -79,11 +107,18 @@
       <description>This paper presents a method for estimating object-scale proposals applied to super resolution (SR) for scale-optimized object detection. With the region-dependent scale proposals, we achieve scale-independent object detection. This object detection scheme consists of three functions; region-dependent scale proposals, SR, and object detection. While SR and object detection have been fused in deep end-to-end networks in previous works, region-dependent scale proposals are not provided or are performed independently of SR and object detection processes.</description>
     </item>
     <item>
-      <title>The 2018 PIRM Challenge on Perceptual Image Super-Resolution</title>
-      <link>http://localhost:1313/homepage/others/perceptualsr_pirm/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/others/perceptualsr_pirm/</guid>
-      <description>We won 1st place in Region 2.</description>
+      <title>NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results</title>
+      <link>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/perceptualsr_ntire2020/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results</title>
+      <link>http://localhost:1313/homepage/others/extremesr_aim19/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/extremesr_aim19/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>

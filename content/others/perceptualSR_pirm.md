@@ -1,9 +1,9 @@
 ---
 title: "The 2018 PIRM Challenge on Perceptual Image Super-Resolution"
-date: 2020-07-28
+date: 2020-09-14
 # pubtype: "Conference"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Temporal Super Resolution", "Challenge"]
 # image: "/img/organicdevops.webp"
 link: "https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Blau_2018_PIRM_Challenge_on_Perceptual_Image_Super-resolution_ECCVW_2018_paper.pdf"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diffusion Model on Profile</title>
+    <link>http://localhost:1313/homepage/tags/diffusion-model/</link>
+    <description>Recent content in Diffusion Model on Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/homepage/tags/diffusion-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality</title>
+      <link>http://localhost:1313/homepage/others/bdsr_ijcnn23/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/others/bdsr_ijcnn23/</guid>
+      <description>While burst LR images are useful for improving the SR image quality compared with a single LR image, prior SR networks accepting the burst LR images are trained in a deterministic manner, which is known to produce a blurry SR image. In addition, it is difficult to perfectly align the burst LR images, making the SR image more blurry. Since such blurry images are perceptually degraded, we aim to reconstruct the sharp high-fidelity boundaries.</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ title: "Context-aware Region-dependent Scale Proposals for Scale-optimized Objec
 date: 2023-07-28
 # pubtype: "Conference"
 featured: true
-description: "K.Akita, N.Ukita, IEEE Access, Vol.11, pp.122141-122153: 10.1109/ACCESS.2023.3329302, 2023."
+description: "K.Akita, N.Ukita <br> IEEE Access, Vol.11, pp.122141-122153: 10.1109/ACCESS.2023.3329302, 2023."
 tags: ["Object Detection", "Super Resolution"]
 image: "img/rdsp_access23.png"
 link: "https://ieeexplore.ieee.org/document/10304134"

@@ -1,9 +1,9 @@
 ---
 title: "Small Object Detection Challenge for Spotting Birds 2023"
-date: 2023-07-28
+date: 2023-07-23
 # pubtype: "Challenge"
 featured: true
-description: ""
+description: "Challenge"
 tags: ["Object Detection", "Challenge"]
 image: "img/samples.png"
 link: "https://www.mva-org.jp/mva2023/index.php?id=challenge"

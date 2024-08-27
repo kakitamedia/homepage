@@ -3,7 +3,7 @@ title: "Distant Bird Detection for Safe Drone Flight and its Dataset"
 date: 2021-07-28
 # pubtype: "Conference"
 featured: true
-description: "S.Fujii, K.Akita, N.Ukita, 17th International Conference on Machine Vision Applications (MVA) 2021."
+description: "S.Fujii, K.Akita, N.Ukita <br> 17th International Conference on Machine Vision Applications (MVA), 2021."
 tags: ["Object Detection", "Dataset"]
 image: "img/drone_mva21.png"
 link: "https://ieeexplore.ieee.org/document/9511386"
