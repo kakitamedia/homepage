@@ -5,6 +5,7 @@ date: 2025-07-1
 featured: true
 description: "Proc. of the 19th International Conference on Machine Vision Applications (MVA2025)."
 tags: ["Object Detection", "Super Resolution"]
+image: "img/asrdsp_mva25.png"
 # link: "https://ieeexplore.ieee.org/abstract/document/9334961"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
