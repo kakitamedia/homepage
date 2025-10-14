@@ -1,6 +1,6 @@
 ---
 title: "Any-scale Object Detection using Arbitrary-scaled Images"
-date: 2025-07-1
+date: 2025-07-28
 # pubtype: "Conference"
 featured: true
 description: "K.Akita, N.Ukita <br> 19th International Conference on Machine Vision Applications (MVA), 2021."
