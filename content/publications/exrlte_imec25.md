@@ -1,5 +1,5 @@
 ---
-title: "Efficient Cost-and-Quality Controllable Arbitrary-scale Super-resolution \\ with Fourier Constraints"
+title: "Efficient Cost-and-Quality Controllable Arbitrary-scale Super-resolution with Fourier Constraints"
 date: 2025-08-28
 # pubtype: "Conference"
 featured: true
