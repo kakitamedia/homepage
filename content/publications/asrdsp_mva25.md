@@ -3,7 +3,7 @@ title: "Any-scale Object Detection using Arbitrary-scaled Images"
 date: 2025-07-1
 # pubtype: "Conference"
 featured: true
-description: "Proc. of the 19th International Conference on Machine Vision Applications (MVA2025)."
+description: "K.Akita, N.Ukita <br> 19th International Conference on Machine Vision Applications (MVA), 2021."
 tags: ["Object Detection", "Super Resolution"]
 image: "img/asrdsp_mva25.png"
 # link: "https://ieeexplore.ieee.org/abstract/document/9334961"
