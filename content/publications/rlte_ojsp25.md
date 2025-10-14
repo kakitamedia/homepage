@@ -3,10 +3,10 @@ title: "Test-time Cost-and-Quality Controllable Arbitrary-Scale Super-Resolution
 date: 2025-09-28
 # pubtype: "Conference"
 featured: true
-description: "K.Akita, N.Ukita <br> OJSP, Vol.11, pp.122141-122153: 10.1109/ACCESS.2023.3329302, 2023."
+description: "K.Akita, N.Ukita <br> OJ-SP, Vol.XX, pp.XX-XX: XXXXXX, 2025."
 tags: ["Object Detection", "Super Resolution"]
 image: "img/rlte_ojsp25.png"
-link: "https://ieeexplore.ieee.org/document/10304134"
+link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11141341"
 # fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
